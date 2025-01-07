@@ -4,7 +4,11 @@ const dreams = [
     image: "/img/hi.webp",
     tags: ["yum", "fun", "data"],
   },
-  { text: "Second dream text here", image: "/img/2.webp" },
+  {
+    text: "Second dream text here",
+    image: "/img/2.webp",
+    tags: ["yum", "data", "future"],
+  },
 ];
 
 export default function Dreams() {
