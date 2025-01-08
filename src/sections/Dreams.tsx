@@ -7,7 +7,7 @@ const dreams = [
   {
     text: "Second dream text here",
     image: "/img/2.webp",
-    tags: ["yum", "data", "future"],
+    tags: ["yum", "data", "future", "omega"],
   },
 ];
 
